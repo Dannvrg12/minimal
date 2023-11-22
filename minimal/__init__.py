@@ -6,3 +6,6 @@ def my_sum(x, y):
 def my_mul(x, y):
     """A function that multiply. """
     return x*y
+
+def cuadrado(n):
+    return n**2
